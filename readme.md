@@ -1,7 +1,7 @@
 # 大圣直播录制工具（DSLiveRec） 当前版本【1.0】
 
 - 本项目在github的地址是: https://github.com/GreatSageReturn/DSLiveRec
-- 目前支持抖音直播的录制
+- 目前支持抖音和快手的直播录制
 - 本项目会不定期更新
 - [有问题在这里提出](https://github.com/GreatSageReturn/DSLiveRec/issues)
 
@@ -9,19 +9,21 @@
 ## 支持的链接格式
 
 ### 抖音：
-- https://live.douyin.com/xxxx PC版直播页链接 必须是开播状态
-- https://v.douyin.com/xxxx/ APP分享链接
-- https://www.douyin.com/user/xxxx PC版用户主页
-### 快手：
-- https://live.kuaishou.com/u/xxxx PC版直播页链接
-- https://v.kuaishou.com/xxxx APP分享链接
+`https://live.douyin.com/xxxx PC版直播页链接 必须是开播状态`
 
+`https://v.douyin.com/xxxx/ APP分享链接`
+
+`https://www.douyin.com/user/xxxx PC版用户主页`
+
+### 快手：
+`https://live.kuaishou.com/u/xxxx PC版直播页链接`
+
+`https://v.kuaishou.com/xxxx APP分享链接`
 
 
 ## 软件下载
 
-[https://wwk.lanzouj.com/i6ow51sgwyzc](https://wwk.lanzouj.com/i6ow51sgwyzc)
-
+https://wwk.lanzouj.com/iY3OE1sha87c
 
 
 ## 软件截图
