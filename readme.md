@@ -38,10 +38,9 @@ https://wwk.lanzouj.com/isUXt1t1b59c
 
 ## 软件截图
 
-<img src="https://attach.52pojie.cn/forum/202403/29/102829ygct8xxp4rthplpt.jpg" style="width: 800px;" />
-<img src="https://attach.52pojie.cn/forum/202403/29/102831rccnpvhnc1222c8u.jpg" style="width: 400px;" />
-<img src="https://attach.52pojie.cn/forum/202403/29/102833yfowxxctlgg7tlob.jpg" style="width: 400px;" />
-
+<img src="https://greatsagereturn-1255464161.cos.ap-nanjing.myqcloud.com/dsliverec%2F1.1%2FQQ%E6%88%AA%E5%9B%BE20240328122359.jpg" style="width: 800px;" />
+<img src="https://greatsagereturn-1255464161.cos.ap-nanjing.myqcloud.com/dsliverec%2F1.1%2FQQ%E6%88%AA%E5%9B%BE20240328122418.jpg" style="width: 400px;" />
+<img src="https://greatsagereturn-1255464161.cos.ap-nanjing.myqcloud.com/dsliverec%2F1.1%2FQQ%E6%88%AA%E5%9B%BE20240328135420.jpg" style="width: 400px;" />
 
 
 ## 赞助作者
