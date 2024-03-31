@@ -1,10 +1,20 @@
-# 大圣直播录制工具（DSLiveRec） 当前版本【1.0】
+# 大圣直播录制工具（DSLiveRec） 【当前版本1.1】
 
 - 本项目在github的地址是: https://github.com/GreatSageReturn/DSLiveRec
 - 目前支持抖音和快手的直播录制
 - 本项目会不定期更新
 - [有问题在这里提出](https://github.com/GreatSageReturn/DSLiveRec/issues)
 
+## 【1.1版更新内容】
+1. 修复快手风控的问题；
+2. 增加托盘图标，默认关闭窗口时只缩小到托盘，可以设置直接关闭；
+3. 其他一些小问题的修复
+
+## 软件功能
+- 目前支持抖音和快手的直播录制；
+- 可24小时监控，主播开播马上录制；
+- 支持开播提醒和录制完后的声音提示；
+- 支持分段保存视频（可按时长或文件大小分段）；
 
 ## 支持的链接格式
 
@@ -23,15 +33,14 @@
 
 ## 软件下载
 
-https://wwk.lanzouj.com/iY3OE1sha87c
+https://wwk.lanzouj.com/isUXt1t1b59c
 
 
 ## 软件截图
 
-<img src="https://greatsagereturn-1255464161.cos.ap-nanjing.myqcloud.com/dsliverec/QQ%E6%88%AA%E5%9B%BE20240324165844.jpg" style="width: 800px;" />
-<img src="https://greatsagereturn-1255464161.cos.ap-nanjing.myqcloud.com/dsliverec/QQ%E6%88%AA%E5%9B%BE20240324165543.jpg" style="width: 800px;" />
-<img src="https://greatsagereturn-1255464161.cos.ap-nanjing.myqcloud.com/dsliverec/QQ%E6%88%AA%E5%9B%BE20240324165812.jpg" style="width: 800px;" />
-<img src="https://greatsagereturn-1255464161.cos.ap-nanjing.myqcloud.com/dsliverec/QQ%E6%88%AA%E5%9B%BE20240324165910.jpg" style="width: 400px;" />
+<img src="https://attach.52pojie.cn/forum/202403/29/102829ygct8xxp4rthplpt.jpg" style="width: 800px;" />
+<img src="https://attach.52pojie.cn/forum/202403/29/102831rccnpvhnc1222c8u.jpg" style="width: 400px;" />
+<img src="https://attach.52pojie.cn/forum/202403/29/102833yfowxxctlgg7tlob.jpg" style="width: 400px;" />
 
 
 
