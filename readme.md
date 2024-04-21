@@ -1,9 +1,16 @@
-# 大圣直播录制工具（DSLiveRec） 【当前版本1.1】
+# 大圣直播录制工具（DSLiveRec） 【当前版本1.2】
 
 - 本项目在github的地址是: https://github.com/GreatSageReturn/DSLiveRec
 - 目前支持抖音和快手的直播录制
 - 本项目会不定期更新
 - [有问题在这里提出](https://github.com/GreatSageReturn/DSLiveRec/issues)
+
+最近太忙了，一直没时间更新，所以更新的东西不是很多，先用着吧。
+
+## 【1.2版更新内容】
+1.增加持续监控的功能；
+2.修复有时候快手无法监控的问题；
+3.增加检查新版本的功能；
 
 ## 【1.1版更新内容】
 1. 修复快手风控的问题；
@@ -33,7 +40,9 @@
 
 ## 软件下载
 
-https://wwk.lanzouj.com/isUXt1t1b59c
+完整安装包：
+链接：https://pan.baidu.com/s/1h9sh3Mn3oT5-BLvx6ztgJg?pwd=dsrj
+提取码：dsrj
 
 
 ## 软件截图
