@@ -5,19 +5,28 @@
 - 本项目会不定期更新
 - [有问题在这里提出](https://github.com/GreatSageReturn/DSLiveRec/issues)
 
-最近太忙了，一直没时间更新，所以更新的东西不是很多，先用着吧。
+最近太忙了，一直没时间更新。由于上一台服务器没有续费导致无法使用，现在更换了服务器，顺便更新了一下。感谢大家一路的陪伴，只要有人用我就会一直维护，觉得好用就赞助一下，谢谢。
+
+## 【1.3版更新内容】
+
+1.增加保存mp3格式
+2.分段保存计数现在单独计算（关播后再开播会重新计算）
+3.优化音视频保存逻辑
 
 ## 【1.2版更新内容】
+
 1.增加持续监控的功能；
 2.修复有时候快手无法监控的问题；
 3.增加检查新版本的功能；
 
 ## 【1.1版更新内容】
+
 1. 修复快手风控的问题；
 2. 增加托盘图标，默认关闭窗口时只缩小到托盘，可以设置直接关闭；
 3. 其他一些小问题的修复
 
 ## 软件功能
+
 - 目前支持抖音和快手的直播录制；
 - 可24小时监控，主播开播马上录制；
 - 支持开播提醒和录制完后的声音提示；
@@ -26,6 +35,7 @@
 ## 支持的链接格式
 
 ### 抖音：
+
 `https://live.douyin.com/xxxx PC版直播页链接 必须是开播状态`
 
 `https://v.douyin.com/xxxx/ APP分享链接`
@@ -33,6 +43,7 @@
 `https://www.douyin.com/user/xxxx PC版用户主页`
 
 ### 快手：
+
 `https://live.kuaishou.com/u/xxxx PC版直播页链接`
 
 `https://v.kuaishou.com/xxxx APP分享链接`
@@ -41,9 +52,11 @@
 ## 软件下载
 
 完整安装包：
-链接：https://pan.baidu.com/s/1h9sh3Mn3oT5-BLvx6ztgJg?pwd=dsrj
-提取码：dsrj
+链接：https://pan.baidu.com/s/1tV55ZyiFUA-l5xFUMcew5w?pwd=7urw
+提取码: 7urw
 
+蓝奏云：
+https://wwbss.lanzouu.com/iBwfJ3s9ncta
 
 ## 软件截图
 
